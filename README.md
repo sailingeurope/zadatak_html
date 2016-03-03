@@ -1,6 +1,6 @@
 # Columns in the bootstrap section with same height
-There are several ways to adjacent columns in the bootstrap, to have the same height.
-Send us how you resolve this problem, and make your html page.
-That little solution zip and send to our email, if you have difficulty to publish on the Git repo.
+There are several ways to adjust columns in the bootstrap section, to have the same height.
+Send us your way how to resolve this problem, and build your own html template page.
+Zip your work and publish it on the Git repo. If you have any difficulties send it to our email dev [at] sailingeurope.com
 
-Happy codeing!
+Happy coding!
